@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "m chắc chưa?",
+    "em chắc chưa?",
     "thật sự??",
-    "m có hâm không?",
+    "em có giỡn hông?",
     "bé oii ok đi mòoo",
     "hãy nghĩ thiệc kĩ ii",
-    "m đ bấm ok, t hẹn cây xăng",
-    "m làm t buồn đÓ tk lon",
-    "m nỡ làm t khóc ư",
-    "tùy m",
+    "em hong ok anh kí đầu",
+    "em làm anh buồn đÓ linhhh",
+    "em nỡ làm anh khóc ư",
+    "tùy emm",
     "hoi giỡn, bấm ok iiiiii",
     
 ];
